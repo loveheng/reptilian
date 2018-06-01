@@ -7,6 +7,12 @@
     <groupId>com.reptilian</groupId>
     <artifactId>reptilian</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>edu.uci.ics</groupId>
+            <artifactId>crawler4j</artifactId>
+            <version>4.4.0</version>
+        </dependency>
+    </dependencies>
 
 </project>
